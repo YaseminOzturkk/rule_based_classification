@@ -19,4 +19,15 @@ Persona.csv data set contains the prices of the products sold by an internationa
 - Age: Customer's age
 ![image](https://github.com/YaseminOzturkk/rule_based_classification/assets/48058898/e3513783-0d44-4a8a-8172-b1d63670bfcb)
 
+## Method and Libraries
+- Segmentation
+- Exploratory Data Analysis (EDA)
+- Pandas
+- Streamlit
+- PIL
+- Matplotlib
+- Plotly
+
+## Requirements.txt
+Please examine the 'requirements.txt' file to identify the necessary libraries.
 
